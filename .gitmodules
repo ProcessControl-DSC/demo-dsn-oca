@@ -14,3 +14,11 @@
 	path = commission
 	url = https://github.com/OCA/commission.git
 	branch = 19.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 19.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = 19.0
