@@ -1,0 +1,16 @@
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+	branch = 19.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = 19.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 19.0
+[submodule "commission"]
+	path = commission
+	url = https://github.com/OCA/commission.git
+	branch = 19.0
